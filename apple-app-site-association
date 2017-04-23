@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1135303803",
+                "paths": [ "/read/*"]
+            }
+        ]
+    }
+}
